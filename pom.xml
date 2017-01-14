@@ -24,6 +24,7 @@
   <artifactId>camel-example-cdi-rest-servlet</artifactId>
   <name>Camel :: Example :: CDI :: REST :: Servlet</name>
   <description>REST DSL / Servlet with CDI example</description>
+  <packaging>jar</packaging>
   
  
 
